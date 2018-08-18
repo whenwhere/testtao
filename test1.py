@@ -5,3 +5,6 @@ def __init__()
   
  class Test():
   print()
+
+  class 
+  second modify
