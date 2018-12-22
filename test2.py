@@ -4,4 +4,6 @@ class Test2():
      
      print("rebooting")
      
+if __name__="__main__":
+    print()
      
